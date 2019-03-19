@@ -1,7 +1,7 @@
 {
-  "name": "viz-library",
-  "version": "2.0.0",
-  "description": "Examples of statistical graphics created at Rho",
+  "name": "R-library",
+  "version": "1.0.0",
+  "description": "Examples of statistical graphics created with R at Rho",
   "main": "./index.html",
   "module": "./src/index.js",
   "scripts": {
